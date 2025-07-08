@@ -1,4 +1,4 @@
-🧹 Data Cleaning Task - 1:
+**🧹 Data Cleaning Task - 1:**
 
 This Jupyter Notebook focuses on the essential steps of data cleaning, a critical process in data preprocessing and analysis.
 
